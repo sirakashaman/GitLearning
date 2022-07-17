@@ -1,4 +1,2 @@
 this the first txt file.
 Modified by other member 
-akash made this change in line 2
-and also on 4
