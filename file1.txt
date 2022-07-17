@@ -1,4 +1,2 @@
 this the first txt file.
 Modified by other member 
-changes to make conflict 
-change made to line 4
